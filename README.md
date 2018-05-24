@@ -1,0 +1,2 @@
+# Geek-Genie-Recommendation-System-
+Developed a reputation system app prototype in Axure for students called “Geek Genie” where students can get information about college/university ratings, best professors, best courses and also best fellow students to work with. They can also connect with the alumni, professors and fellow students through this platform to work on live projects, do research work and know about activities going on in other universities and participate in them.
